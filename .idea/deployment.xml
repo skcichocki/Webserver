@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" promptOnRemoteOverwrite="CHECK_CONTENT" serverName="cs.gamingsquared.org" autoUploadExternalChanges="true" notifyRemoteChanges="true">
+    <serverData>
+      <paths name="cs.gamingsquared.org">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/.tmp.drivedownload" />
+            <excludedPath path="/4.0 Release" />
+            <excludedPath path="/Assignment 1 Test" />
+            <excludedPath path="/bbs" />
+            <excludedPath path="/bbs1" />
+            <excludedPath path="/ch04_ex1_survey" />
+            <excludedPath path="/cops" />
+            <excludedPath path="/InClass02Solution" />
+            <excludedPath path="/InClass03" />
+            <excludedPath path="/InClass03Solution" />
+            <excludedPath path="/InClass04" />
+            <excludedPath path="/InClass05" />
+            <excludedPath path="/InClass05Solution" />
+            <excludedPath path="/InClass06" />
+            <excludedPath path="/InClass07" />
+            <excludedPath path="/InClass08" />
+            <excludedPath path="/InClass09" />
+            <excludedPath path="/InClass10" />
+            <excludedPath path="/InClass11" />
+            <excludedPath path="/joomla" />
+            <excludedPath path="/nanajjarExercise8" />
+            <excludedPath path="/phpMyAdmin" />
+            <excludedPath path="/System Volume Information" />
+            <excludedPath path="/web_images" />
+            <excludedPath path="/wordpress" />
+            <excludedPath local="true" path="$PROJECT_DIR$/.tmp.drivedownload" />
+            <excludedPath local="true" path="$PROJECT_DIR$/4.0 Release" />
+            <excludedPath local="true" path="$PROJECT_DIR$/Assignment 1 Test" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bbs" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bbs1" />
+            <excludedPath local="true" path="$PROJECT_DIR$/ch04_ex1_survey" />
+            <excludedPath local="true" path="$PROJECT_DIR$/cops" />
+            <excludedPath local="true" path="$PROJECT_DIR$/InClass02Solution" />
+            <excludedPath local="true" path="$PROJECT_DIR$/InClass03" />
+            <excludedPath local="true" path="$PROJECT_DIR$/InClass03Solution" />
+            <excludedPath local="true" path="$PROJECT_DIR$/InClass04" />
+            <excludedPath local="true" path="$PROJECT_DIR$/InClass05" />
+            <excludedPath local="true" path="$PROJECT_DIR$/InClass05Solution" />
+            <excludedPath local="true" path="$PROJECT_DIR$/InClass06" />
+            <excludedPath local="true" path="$PROJECT_DIR$/InClass07" />
+            <excludedPath local="true" path="$PROJECT_DIR$/InClass08" />
+            <excludedPath local="true" path="$PROJECT_DIR$/InClass09" />
+            <excludedPath local="true" path="$PROJECT_DIR$/InClass10" />
+            <excludedPath local="true" path="$PROJECT_DIR$/InClass11" />
+            <excludedPath local="true" path="$PROJECT_DIR$/joomla" />
+            <excludedPath local="true" path="$PROJECT_DIR$/nanajjarExercise8" />
+            <excludedPath local="true" path="$PROJECT_DIR$/phpMyAdmin" />
+            <excludedPath local="true" path="$PROJECT_DIR$/System Volume Information" />
+            <excludedPath local="true" path="$PROJECT_DIR$/web_images" />
+            <excludedPath local="true" path="$PROJECT_DIR$/wordpress" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
