@@ -1,0 +1,143 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Cutive Mono', monospace;
+  font-size: 100%;
+  background-image: url("Images/star-pattern.png");
+  background-repeat: repeat;
+  background-color: #748a73;
+}
+
+h1 {
+  margin: 0 auto 0 auto;
+  font-family: 'Dawning of a New Day', cursive;
+  font-size: 3.7rem;
+  color: #4d1c03;
+}
+
+h2 {
+  font-family: 'Dawning of a New Day', cursive;
+  margin-top: 10 auto 0 auto;
+  font-size: 2.5rem;
+  color: #4d1c03;
+}
+
+h3 {
+  font-family: 'Dawning of a New Day', cursive;
+  margin: 0;
+  font-size: 2rem;
+  color: #4d1c03
+}
+
+p {
+  font-weight: bold;
+  font-size: 1.3em;
+  color: #fbe4c2;
+  text-shadow: -1px 1px #4d1c03;
+}
+
+hr {
+  width: 75%;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #122138;
+  border-width: 5px;
+  margin-bottom: 30px;
+}
+
+.top-container {
+  background-color: #7c738a;
+  position: relative;
+  padding-top: 100px;
+  height: 450px;
+}
+
+.middle_container {}
+
+.skill-row {
+  width: 50%;
+  margin: 75px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.bottom_container {
+  font-family: 'Cutive Mono', monospace;
+}
+
+.artist {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.us {
+  height: 267px;
+  width: 327px;
+}
+
+.location {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  margin-top: 30px;
+}
+
+.rsvp {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  margin-top: 10px;
+}
+
+.Registry {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+  margin-top: 10px;
+}
+
+.contact-me {
+  width: 75%;
+  Margin: 0 auto 0 auto;
+}
+
+.location-banner {
+
+  position: relative;
+  padding-top: 20px;
+  height: 150px;
+margin: 0 auto
+}
+
+.skull-lights {
+  Margin: 0 auto 0 auto;
+  width: 100%;
+  padding-top: 0;
+
+}
+
+.gallery-map {
+  position: relative;
+  Margin: 20px auto;
+}
+
+
+
+}
+.shops {
+  width: 50%;
+  margin: 75px auto 100px auto;
+  text-align: left;
+  line-height: 1;
+}

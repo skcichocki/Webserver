@@ -404,6 +404,22 @@
     ============================================= -->
     <title>J+K</title>
 
+    <!-- Piwik -->
+    <script type="text/javascript">
+        var _paq = _paq || [];
+        /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+        _paq.push(['trackPageView']);
+        _paq.push(['enableLinkTracking']);
+        (function() {
+            var u="//cs.gamingsquared.org/piwik/";
+            _paq.push(['setTrackerUrl', u+'piwik.php']);
+            _paq.push(['setSiteId', '1']);
+            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+            g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+        })();
+    </script>
+    <!-- End Piwik Code -->
+
 </head>
 
 <body class="stretched">
@@ -434,10 +450,10 @@
                 <nav id="primary-menu">
 
                     <ul>
-                        <li class="current"><a href="index.php"><div>Home</div></a>
+                        <li><a href="index.php"><div>Home</div></a>
 
                         <li><a href="locate.php"><div>Location</div></a></li>
-                        <li><a href="schedule.php"><div>Schedule</div></a></li>
+                        <li class="current"><a href="schedule.php"><div>Schedule</div></a></li>
                         <li><a href="contact.php"><div>How to contact us</div></a></li>
                         <li><a href="registry.php"><div>Registry</div></a> </li>
 <!--                        <li><a href="about.php"><div>About</div></a> </li>-->

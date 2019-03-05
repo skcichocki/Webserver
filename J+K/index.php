@@ -13,7 +13,7 @@
 
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-    <meta name="author" content="SemiColonWeb" />
+<!--    <meta name="author" content="SemiColonWeb" />-->
 
     <!-- Stylesheets
     ============================================= -->
@@ -35,6 +35,21 @@
     ============================================= -->
     <title>Home | Kyle and Jessica</title>
 
+    <!-- Piwik -->
+    <script type="text/javascript">
+        var _paq = _paq || [];
+        /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+        _paq.push(['trackPageView']);
+        _paq.push(['enableLinkTracking']);
+        (function() {
+            var u="//cs.gamingsquared.org/piwik/";
+            _paq.push(['setTrackerUrl', u+'piwik.php']);
+            _paq.push(['setSiteId', '1']);
+            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+            g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+        })();
+    </script>
+    <!-- End Piwik Code -->
 </head>
 
 <body class="stretched">
@@ -131,7 +146,7 @@
 
 
 
-                </nav> #primary-menu end
+                </nav> <!-- #primary-menu end -->
 
             </div>
 
@@ -141,7 +156,7 @@
 
     <section id="slider" class="force-full-screen full-screen">
 
-        <div class="force-full-screen full-screen dark" style="background-image: url('https://previews.123rf.com/images/olegdudko/olegdudko1510/olegdudko151008311/46818191-wedding-.jpg');background-position: 50% 0;">
+        <div class="force-full-screen full-screen dark" style="background-image: url('images/treecorner.png'); background-position: center; background-size: auto; background-repeat: no-repeat; background-attachment: fixed;">
 
             <div class="container clearfix">
                 <div class="slider-caption slider-caption-center">

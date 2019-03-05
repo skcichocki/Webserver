@@ -171,7 +171,7 @@ if (isset($_SESSION['userID'])) {
             <div class="container clearfix">
 
                 <div class="col_half">
-                    Copyrights &copy; 2018 All Rights Reserved by Brew Locker<br>
+                    Copyrights &copy; 2019 All Rights Reserved by Brew Locker<br>
                 </div>
 
 

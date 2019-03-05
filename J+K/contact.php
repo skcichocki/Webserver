@@ -33,6 +33,7 @@ if (isset($_SESSION['userID'])) {
     <!-- Document Title
     ============================================= -->
     <title>Kyle And Jessica</title>
+
     <!-- Piwik -->
     <script type="text/javascript">
         var _paq = _paq || [];
@@ -79,11 +80,11 @@ if (isset($_SESSION['userID'])) {
                 <nav id="primary-menu">
 
                     <ul>
-                        <li class="current"><a href="index.php"><div>Home</div></a>
+                        <li><a href="index.php"><div>Home</div></a>
 
                         <li><a href="locate.php"><div>Location</div></a></li>
                         <li><a href="schedule.php"><div>Schedule</div></a></li>
-                        <li><a href="contact.php"><div>How to contact us</div></a></li>
+                        <li  class="current"><a href="contact.php"><div>How to contact us</div></a></li>
                         <li><a href="registry.php"><div>Registry</div></a> </li>
 
                         <!--                        <li class="mega-menu"><a href="#"><div>Local Breweries</div></a>-->
@@ -154,13 +155,13 @@ if (isset($_SESSION['userID'])) {
 
     <section id="slider" class="force-full-screen full-screen">
 
-        <div class="force-full-screen full-screen dark" style="background-image: url('https://previews.123rf.com/images/olegdudko/olegdudko1510/olegdudko151008311/46818191-wedding-.jpg');background-position: 50% 0;">
+<!--        <div class="force-full-screen full-screen dark" style="background-image: url('https://previews.123rf.com/images/olegdudko/olegdudko1510/olegdudko151008311/46818191-wedding-.jpg');background-position: 50% 0;">-->
 
             <div class="container clearfix">
                 <div class="slider-caption slider-caption-center">
-                    <h2 data-animate="fadeInDown">Jessica and Kyle Wedding!</h2>
-                    <p data-animate="fadeInLeft" data-delay="400">This website was created as a hub for the wedding of Jessica and Kyle. Here you will find out how to contact them, and know where to go!</p>
-                    <p data-animate="fadeInRight" data-delay="800">Please let me know what you think of this website</p>
+                    <h2 data-animate="fadeInDown">Jessica and Kyle Wedding</h2>
+                    <p data-animate="fadeInLeft" data-delay="400">May the 4th be with you 2019</p>
+                    <p data-animate="fadeInRight" data-delay="800">Please feel free to contact us at: EMAIL@EMAIL.EMAIL or (999)-999-9999</p>
 <!--                    --><?php //if (!isset($_SESSION['userID'])) { ?><!-- <a data-animate="fadeInUp" data-delay="600" href="login.php" class="button button-border button-light button-rounded button-large noleftmargin nobottommargin" style="margin-top: 30px;">Login</a>--><?php //} ?>
                     <?php if (isset($_SESSION['userID']) && $type == "user") { ?> <a data-animate="fadeInUp" data-delay="800" href="rateabeerother.php" class="button button-3d button-teal button-large nobottommargin" style="margin: 30px 0 0 10px;">Rate a Beer</a> <?php } ?>
                 </div>
